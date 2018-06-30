@@ -40,6 +40,8 @@
  '(inhibit-startup-screen t)
  '(magit-diff-use-overlays nil)
  '(nyan-wavy-trail t)
+ '(menu-bar-mode nil)
+ '(tool-bar-mode nil)
  '(package-archives
    (quote
     (("gnu" . "http://elpa.gnu.org/packages/")
