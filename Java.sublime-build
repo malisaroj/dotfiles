@@ -1,6 +1,0 @@
-{
-    "file_regex": "(.+):(\\d+): error: ",
-    "shell_cmd": "javac $file && java $file_base_name",
-    "shell": true,
-    "selector": "source.java",
-}
